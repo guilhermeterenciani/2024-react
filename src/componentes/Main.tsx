@@ -10,6 +10,8 @@ function Main(){
                     <a className='link-git' href="https://github.com/guilhermeterenciani">GitHub</a>
                 </div>
             </div>
+
+            
         </main>
     )
 }
