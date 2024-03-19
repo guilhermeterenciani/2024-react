@@ -1,9 +1,16 @@
+import './Main.css'
 function Main(){
     return(
-        <>
-            <main>Main</main>
-            <h1>Meu H1</h1>
-        </>
+        <main>
+            <div className="estudante-box">
+                <img className='estudante-foto' src="https://github.com/guilhermeterenciani.png" alt=""/>
+                <div className="informacoes">
+                    <h3 className="estudante_nome">Guilherme Figueiredo Terenciani</h3>
+                    <p className="estudante_descricao">Professor IFMS campus Naviraí na área de desenvolvimento/desenvolvimento web</p>
+                    <a href="#">GitHub</a>
+                </div>
+            </div>
+        </main>
     )
 }
 
