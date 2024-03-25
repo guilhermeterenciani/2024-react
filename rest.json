@@ -1,0 +1,22 @@
+{
+    "estudantes":[
+    {
+      "nome": "Guilherme Figueiredo Terenciani",
+      "descricao": "Estudante de Engenharia de Computação na Universidade Federal de Mato Grosso do Sul",
+      "linkGit": "https://github.com/guilhermeterenciani",
+      "foto": "https://github.com/guilhermeterenciani.png"
+    },
+    {
+      "nome": "Guilherme Figueiredo Terenciani",
+      "descricao": "Estudante de Engenharia de Computação na Universidade Federal de Mato Grosso do Sul",
+      "linkGit": "https://github.com/guilhermeterenciani",
+      "foto": "https://github.com/guilhermeterenciani.png"
+    },
+    {
+      "nome": "Guilherme Figueiredo Terenciani",
+      "descricao": "Estudante de Engenharia de Computação na Universidade Federal de Mato Grosso do Sul",
+      "linkGit": "https://github.com/guilhermeterenciani",
+      "foto": "https://github.com/guilhermeterenciani.png"
+    }
+  ]
+}
